@@ -37,5 +37,9 @@ Under the following terms:
     ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
     No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
+You may obtain a copy of the License at https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+A copy of the full legal code of the License can be obtained at https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
 ## 3. Trademark and License Disclaimer
 All trademarks, trade names, or logos mentioned or used are the property of their respective owners. 
