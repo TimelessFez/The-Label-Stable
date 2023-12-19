@@ -1,5 +1,5 @@
 # The Label Collection
-## Disclaimer
+## Legal Disclaimer
 All trademarks are the property of their respective owners.
 
 ## Game Boy Advance (Katakana)
