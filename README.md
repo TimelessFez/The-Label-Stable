@@ -1,12 +1,13 @@
 # The Label Stable
 
----
-
 ## Table of Contents
 1. Legal Disclaimer
 2. Logotype
-  2.1. ゲームボーイアドバンス / Game Boy Advance (Japanese)
+  * 2.1 test ゲームボーイアドバンス / Game Boy Advance (Japanese)
+    + 2.1.1. Black Logotype
+    + 2.1.2. White Logotype
 3. License and Attribution
+
 ---
 
 ## 1. Legal Disclaimer
