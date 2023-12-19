@@ -6,7 +6,7 @@
     * 2.1 test ゲームボーイアドバンス / Game Boy Advance (Japanese)
       + 2.1.1. Black Logotype
       + 2.1.2. White Logotype
-3. License and Attribution
+3. License
 
 ---
 
@@ -25,4 +25,5 @@ All trademarks are the property of their respective owners. This repository mere
 ![white game boy advance logotype in japanese](https://github.com/TimelessFez/The-Label-Collection/blob/main/logos/GameBoyAdvance_text_JP_wht.svg)
 
 
-## 3. License and Attribution
+## 3. License
+The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
