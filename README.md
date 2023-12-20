@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. Logotype
-    * 1.1 test ゲームボーイアドバンス / Game Boy Advance (Japanese)
+    * 1.1 ゲームボーイアドバンス / Game Boy Advance (Japanese)
       + 1.1.1. Black Logotype
       + 1.1.2. White Logotype
 2. License
