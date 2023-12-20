@@ -15,7 +15,7 @@
 
 - Recreated as a scalable vector graphic (.SVG) by [TimelessFez](https://github.com/TimelessFez/) using [Inkscape](https://inkscape.org/) v1.3.
 - Last updated: 19 Dec 2023
-- Original designer: Unknown. (Nintendo?)
+- Original font: Unknown (possibly designed in-house by Nintendo?)
 
 ![black game boy advance logotype in japanese](https://github.com/TimelessFez/The-Label-Collection/blob/main/logos/GameBoyAdvance_text_JP_blk.svg)
 
