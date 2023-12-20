@@ -5,7 +5,7 @@
 
 #### The content of this project itself does not reflect the quality of the OEM products or designs, rather they are merely faithful recreations, and should in no way be used commercially in any way or form, without explicit permission from the respective owners of these trademarks, trade names, logos, or designs.
 
-#### Do not use these for to create counterfeit cartridges or for deception. This content should ONLY be used for the replacement of damaged or worn out cartridge labels. I shall not be responsible for the legal repercussions of your own actions. You have been warned.
+#### Under any circumstances, do <ins>***NOT***</ins> to use these for to create counterfeit cartridges or for deception. This content is intended for, and should <ins>***ONLY***</ins> be used for the replacement of damaged or worn out labels. I shall not be responsible for the legal repercussions of your own actions. You have been warned.
 
 ---
 ## Table of Contents
