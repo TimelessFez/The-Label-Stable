@@ -1,9 +1,11 @@
 # The Label Stable
 
 ### Legal Disclaimer
-***All trademarks, trade names, or logos mentioned or used are the property of their respective owners.***
+#### ***All trademarks, trade names, or logos mentioned or used are the property of their respective owners.***
 
-The content of this project itself does not reflect the quality of the OEM products or designs, rather they are merely faithful recreations, and should in no way be used commercially in any way or form, without explicit permission from the respective owners of these trademarks, trade names, logos, or designs.
+#### The content of this project itself does not reflect the quality of the OEM products or designs, rather they are merely faithful recreations, and should in no way be used commercially in any way or form, without explicit permission from the respective owners of these trademarks, trade names, logos, or designs.
+
+#### Do not use these for to create counterfeit cartridges or for deception. This content should ONLY be used for the replacement of damaged or worn out cartridge labels. I shall not be responsible for the legal repercussions of your own actions. You have been warned.
 
 ---
 ## Table of Contents
@@ -17,10 +19,6 @@ The content of this project itself does not reflect the quality of the OEM produ
 
 ## 1. Logotype
 ### 1.1. ゲームボーイアドバンス / Game Boy Advance (Japanese)
-
-- Recreated as a scalable vector graphic (.SVG) by [TimelessFez](https://github.com/TimelessFez/) using [Inkscape](https://inkscape.org/) v1.3.
-- Last updated: 19 Dec 2023
-- Original font: Unknown (possibly designed in-house by Nintendo?)
 
 ![black game boy advance logotype in japanese](https://github.com/TimelessFez/The-Label-Collection/blob/main/logos/GameBoyAdvance_text_JP_blk.svg)
 
