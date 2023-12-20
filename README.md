@@ -12,7 +12,6 @@ The content of this project itself does not reflect the quality of the OEM produ
       + 1.1.1. Black Logotype
       + 1.1.2. White Logotype
 2. License
-3. Copyright and Trademark Disclaimer
 
 ---
 
