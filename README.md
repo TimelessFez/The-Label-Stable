@@ -9,7 +9,7 @@
 
 ### The content of this project itself ***does <ins>NOT</ins> reflect*** the quality or beliefs of their respective owners, rather they are merely faithful recreations, and should in no way be used commercially in any way or form, without explicit permission from the respective owners of these trademarks, trade names, logos, or designs.
 
-### Under any circumstances, do <ins>***NOT***</ins> use these for to create counterfeit cartridges or for deception. This content is intended strictly for ***non-commercial*** and ***personal*** use, and should <ins>***ONLY***</ins> be used for the replacement of damaged or worn out labels. I shall not be responsible for your failure to acknowledge these terms, nor the legal repercussions of your own actions. You have been warned.
+### Under any circumstances, do <ins>***NOT***</ins> use these for the production of counterfeit cartridges or for deception. This content is intended strictly for ***non-commercial*** and ***personal*** use, and should <ins>***ONLY***</ins> be used for the replacement of damaged or worn out labels. I shall not be responsible for your failure to acknowledge these terms, nor the legal repercussions of your own actions. You have been warned.
 
 ---
 ## Table of Contents
