@@ -14,7 +14,7 @@
 ---
 ## Table of Contents
 1. Logotype
-    * 1.1 ゲームボーイアドバンス / Game Boy Advance (Japanese)
+    * 1.1 ゲームボーイアドバンス® / Game Boy Advance® (Japanese)
       + 1.1.1. Black Logotype
       + 1.1.2. White Logotype
 2. License
@@ -22,7 +22,7 @@
 ---
 
 ## 1. Logotype
-### 1.1. ゲームボーイアドバンス / Game Boy Advance (Japanese)
+### 1.1. ゲームボーイアドバンス® / Game Boy Advance® (Japanese)
 
 ![black game boy advance logotype in japanese](https://github.com/TimelessFez/The-Label-Collection/blob/main/logos/GameBoyAdvance_text_JP_blk.svg)
 
