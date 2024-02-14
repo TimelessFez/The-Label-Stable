@@ -28,6 +28,11 @@
 
 ![white game boy advance logotype in japanese](https://github.com/TimelessFez/The-Label-Collection/blob/main/logos/GameBoyAdvance_text_JP_wht.svg)
 
+### 1.2. Pokemon Generation 2 "GS" Logo
+
+![GS logo](logos/Pokemon_GS_Logo.svg)
+
+
 ## 2. License
 The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, and intended *only* for personal and non-commercial use.
 
